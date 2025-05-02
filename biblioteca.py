@@ -13,3 +13,5 @@ def gerarArvore(numero):
             resultado += f"{i} " 
         resultado += "\n"  
     return resultado
+
+    
